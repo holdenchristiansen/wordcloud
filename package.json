@@ -1,0 +1,22 @@
+{
+  "name": "WordCloud",
+  "version": "1.0.0",
+  "author": "Holden Christiansen",
+  "scripts": {
+    "start": "grunt prod"
+  },
+  "engines": {
+    "node": "4.1.1"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-uglify": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
